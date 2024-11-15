@@ -55,7 +55,7 @@ This command will:
 
 #### Access Your Local WordPress Site:
 1. Open a web browser.
-2. Navigate to `http://localhost:8080`.
+2. Navigate to `http://localhost:8080/wp-admin`.
 3. You should see the WordPress setup page.
 
 ---
